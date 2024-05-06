@@ -3,6 +3,12 @@
 **Мета завдання:**
 Створити простий веб-додаток за допомогою Streamlit, який вміє відображати таблиці та графіки, а також реагувати на взаємодію з користувачем через віджети.
 
+**Посилання на документацію по Streamlit:**
+- [Галерея застосунків](https://streamlit.io/gallery)
+- [Встановлення](https://docs.streamlit.io/get-started/installation)
+- [Основні моменти](https://docs.streamlit.io/get-started/fundamentals/main-concepts)
+
+
 #### Інструкції:
 
 1. **Створення таблиці**
