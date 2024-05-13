@@ -12,6 +12,10 @@
   - ```shell
     pip install streamlit
     ```
+- Запуск програми аби перевірити що вона встановлена та працює:
+  - ```shell
+    streamlit hello
+    ```
 
 ## Налаштування середовища Conda
 - Треба скачати та встановити [Anaconda](https://www.anaconda.com/download/success) для управління середовищем та пакетами Python.
@@ -22,9 +26,12 @@
   - Аби отримати безкоштовну навчальну ліцензію для PyCharm Professional, треба звернутися до [JetBrains Student Pack](https://www.jetbrains.com/community/education/#students).
 - Треба виконати аби встановити всі необхідні пакети:
   - ```shell
-    pip install -r requirements.txt
+    pip install streamlit
     ```
-
+- Запуск програми аби перевірити що вона встановлена та працює:
+  - ```shell
+    streamlit hello
+    ```
 
 
 
